@@ -1206,6 +1206,17 @@
                 "updated": "2026-07-22",
                 "snapshot": "2026-07-23"
               }
+            },
+            {
+              "name": "HOL Guard",
+              "repo": "hashgraph-online/hol-guard",
+              "org": "HOL",
+              "desc": "Local-first runtime policy checks for supported AI coding agents, reviewing shell commands, sensitive file access, package installs, and MCP tool calls through available hooks before execution.",
+              "status": [
+                "open_source"
+              ],
+              "license": "Apache-2.0",
+              "note": "Submitted by a HOL maintainer. Coverage depends on exposed agent events; Guard Cloud is optional and paid."
             }
           ]
         }
