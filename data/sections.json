@@ -1206,6 +1206,15 @@
                 "updated": "2026-07-22",
                 "snapshot": "2026-07-23"
               }
+            },
+            {
+              "name": "HOL Guard",
+              "repo": "hashgraph-online/hol-guard",
+              "desc": "Local security layer for supported AI coding agents that inspects shell commands, file access, package installs, and MCP tool calls before execution and allows, blocks, or requests approval according to configured policy.",
+              "status": [
+                "open_source"
+              ],
+              "license": "Apache-2.0"
             }
           ]
         }
